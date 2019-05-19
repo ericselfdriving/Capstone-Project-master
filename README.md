@@ -3,9 +3,6 @@
 This is the final project for the Udacity Self-Driving Car Engineer Nanodegree.
 For more information about the project, see the project introduction.
 
-[//]:#(Image References)
-[image1]: ./imgs/carla_architecture.png
-
 Please use **one** of the two installation options, either native **or** docker installation.
 
 ### Native Installation
@@ -80,7 +77,7 @@ roslaunch launch/site.launch
 5. Confirm that traffic light detection works on real life images
 
 ## Project overview
-![] [images1]
+![](./imgs/carla_architecture.png)
 ### Sensors 
 Includes eververthing needed to understand its surroundings and locating including cameras,lidar,radar and IMU.
 ### Percetion
