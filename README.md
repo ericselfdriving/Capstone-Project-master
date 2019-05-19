@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-#Udacity Self-Driving Car Nanodegree
+
+# Udacity Self-Driving Car Nanodegree
 This is the final project for the Udacity Self-Driving Car Engineer Nanodegree.
 For more information about the project, see the project introduction.
 [//]:#(Image References)
@@ -103,6 +103,4 @@ Based on the desired immedite behavior,the trajectoty will determine which traje
 The control component takes trajectory outputs and processes them with a controller algorithm like PID,MPC to adjust the control inputs.
 
 
-=======
-# Capstone-Project-master
->>>>>>> 71d974ae2f47a04251d88bddf1598fef33415db9
+
