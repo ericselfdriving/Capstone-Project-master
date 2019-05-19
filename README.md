@@ -2,6 +2,7 @@
 # Udacity Self-Driving Car Nanodegree
 This is the final project for the Udacity Self-Driving Car Engineer Nanodegree.
 For more information about the project, see the project introduction.
+
 [//]:#(Image References)
 [image1]: ./imgs/carla_architecture.png
 
